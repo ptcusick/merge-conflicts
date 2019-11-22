@@ -4,12 +4,18 @@
 - organization: Atlants's ConnectHome
   role: Volunteer
   year: 2016 &mdash; Present
-  url: http://connecthome.atlantaga.gov/
+  #url: http://connecthome.atlantaga.gov/
   summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
 
 
 - organization: freeCodeCamp
   role: Contributor
   year: 2015 &mdash; Present
-  url: https://www.freecodecamp.org/
+  #url: https://www.freecodecamp.org/
   summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
+  
+  - organization: The Pope's Homies
+    role: Homie
+    year: 47 &mdash; Present
+    #url: http://www.jesusismyboi.org/
+    summary: Close friend and homie to every pope so far
